@@ -13,4 +13,5 @@ public class Quadrilatero{
     public static float area(float diagonal1, float diagonal2){
         return (diagonal1 * diagonal2)/2;
     }
+
 }
